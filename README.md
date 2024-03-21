@@ -1,6 +1,6 @@
 Domain Parking Page
 ============
-
+![Error!](https://github.com/callowaysutton/docker-parking-page/actions/workflows/docker-image.yml/badge.svg) ![Error!](https://github.com/callowaysutton/docker-parking-page/actions/workflows/trivy.yml/badge.svg)
 ## Overview:
 In the digital landscape, there are times when websites are under construction or domains are parked temporarily. During these periods, it's crucial to have a placeholder page to inform visitors about the status of the website and provide relevant information. Docker containers offer a convenient way to deploy such placeholder pages quickly and efficiently.
 
