@@ -11,6 +11,8 @@ The Docker container for a "Website Under Construction/Parked Domain" service pr
 docker run -it --rm -p 3000:3000 callowaysutton/parking-page
 ```
 
+![image](screenshot.jpg)
+
 ## Key Features:
 
 1. **Easy Deployment:** Deploying the Docker container is simple and straightforward. Users can pull the container image from a Docker registry or build it locally from a Dockerfile. Once the container is running, the placeholder page is accessible to visitors.
